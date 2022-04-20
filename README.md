@@ -29,8 +29,8 @@ src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&
 <img align="center" alt="GITHUB"
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 
-  
-  
+<br>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
